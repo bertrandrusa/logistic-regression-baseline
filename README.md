@@ -2,6 +2,12 @@
 
 A binary classification baseline for comparison with a feed-forward neural network.
 
+## Results
+
+Screenshot from the original run: **91.30% F1**, **91.50% precision**, **91.10% recall**, and **2,604 prediction errors** on 30,000 test examples. This is a record of that run; results from the current code depend on the dataset and settings.
+
+![Logistic regression results showing evaluation metrics and confusion matrix](assets/logistic-regression-results.png)
+
 ## Run in Google Colab
 
 1. Open `logistic_regression.ipynb` in Google Colab.
